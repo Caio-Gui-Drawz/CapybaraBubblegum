@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 1167cd76d484bf043888782df0982b6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1559323379121202301
+    second: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_0
+  - first:
+      213: 3110880802389193606
+    second: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_1
+  - first:
+      213: 2452276056920702977
+    second: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_2
+  - first:
+      213: -6595155997954980650
+    second: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_3
+  - first:
+      213: 7542539444942182733
+    second: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_4
+  - first:
+      213: 2528211333613752133
+    second: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_5
+  - first:
+      213: -119050085636499528
+    second: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_6
+  - first:
+      213: -5036441549382944090
+    second: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_7
+  - first:
+      213: 7408210481221232344
+    second: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_8
+  - first:
+      213: 5771543275397048523
+    second: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_9
+  - first:
+      213: -4816088590371181684
+    second: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_10
+  - first:
+      213: 3908966156635672483
+    second: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_11
+  - first:
+      213: -4590200897199992258
+    second: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_12
+  - first:
+      213: -4848936190963447350
+    second: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_13
+  - first:
+      213: -4772592470812406907
+    second: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 940
+        width: 179
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bd489f5ab2c5ae0800000000000000
+      internalID: -1559323379121202301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 929
+        width: 101
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6837dfc8b911c2b20800000000000000
+      internalID: 3110880802389193606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 940
+        width: 253
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10044ffb41c380220800000000000000
+      internalID: 2452276056920702977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_3
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 929
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d44b9fff8c4974a0800000000000000
+      internalID: -6595155997954980650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 695
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d499620c9ab7ca860800000000000000
+      internalID: 7542539444942182733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 98
+        width: 540
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f0a2910d2061320800000000000000
+      internalID: 2528211333613752133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_6
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 707
+        width: 247
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7182fe39c095ef0800000000000000
+      internalID: -119050085636499528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 473
+        width: 183
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aaf2055817fa1ab0800000000000000
+      internalID: -5036441549382944090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_8
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 462
+        width: 79
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6648aae204fc660800000000000000
+      internalID: 7408210481221232344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 228
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8e5dfa704a81050800000000000000
+      internalID: 5771543275397048523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_10
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 240
+        width: 247
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b2d1c91f0d92db0800000000000000
+      internalID: -4816088590371181684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 183
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af0b4542007f3630800000000000000
+      internalID: 3908966156635672483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_12
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 101
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3217ba9a945c40c0800000000000000
+      internalID: -4590200897199992258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_13
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 6
+        width: 265
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9861f993e15bcb0800000000000000
+      internalID: -4848936190963447350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_14
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 0
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bc58f1f6854cdb0800000000000000
+      internalID: -4772592470812406907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_0: -1559323379121202301
+      capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_1: 3110880802389193606
+      capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_10: -4816088590371181684
+      capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_11: 3908966156635672483
+      capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_12: -4590200897199992258
+      capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_13: -4848936190963447350
+      capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_14: -4772592470812406907
+      capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_2: 2452276056920702977
+      capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_3: -6595155997954980650
+      capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_4: 7542539444942182733
+      capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_5: 2528211333613752133
+      capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_6: -119050085636499528
+      capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_7: -5036441549382944090
+      capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_8: 7408210481221232344
+      capybara-cute-cartoon-hiphop-isolated-on-transparent-background-ai-generated-digital-illustration-png_9: 5771543275397048523
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

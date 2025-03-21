@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: 4530dc049b5684b4c8331380fa024629
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5870958610887072062
+    second: Capybara_RagDoll_Design_0
+  - first:
+      213: 3174761340750173113
+    second: Capybara_RagDoll_Design_1
+  - first:
+      213: -2285611793387735748
+    second: Capybara_RagDoll_Design_2
+  - first:
+      213: -1039017214598769665
+    second: Capybara_RagDoll_Design_3
+  - first:
+      213: 7851188161055872903
+    second: Capybara_RagDoll_Design_4
+  - first:
+      213: -1339421203210988032
+    second: Capybara_RagDoll_Design_5
+  - first:
+      213: 3707670968343745534
+    second: Capybara_RagDoll_Design_6
+  - first:
+      213: -4368463846646811029
+    second: Capybara_RagDoll_Design_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Capybara_RagDoll_Design_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 398
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c62e03cf3a268ea0800000000000000
+      internalID: -5870958610887072062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_RagDoll_Design_1
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 231
+        width: 144
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b39e0a6e940f0c20800000000000000
+      internalID: 3174761340750173113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_RagDoll_Design_2
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 225
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c353ea00f20e740e0800000000000000
+      internalID: -2285611793387735748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_RagDoll_Design_3
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 225
+        width: 85
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff31358295ba491f0800000000000000
+      internalID: -1039017214598769665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_RagDoll_Design_4
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 225
+        width: 145
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787dc7cf80605fc60800000000000000
+      internalID: 7851188161055872903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_RagDoll_Design_5
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2
+        width: 211
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0069bf1238b696de0800000000000000
+      internalID: -1339421203210988032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_RagDoll_Design_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2
+        width: 267
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef358240a1b447330800000000000000
+      internalID: 3707670968343745534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capybara_RagDoll_Design_7
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 2
+        width: 347
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66fa7ec6491063c0800000000000000
+      internalID: -4368463846646811029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAYER_CAPYBARA/Arm.L
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2
+        width: 267
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b7de0274a2837d0800000000000000
+      internalID: -2938552271875769554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAYER_CAPYBARA/Arm.R
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2
+        width: 211
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c534a2cc15a83c0800000000000000
+      internalID: -4356579752203297749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAYER_CAPYBARA/Body
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 2
+        width: 347
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0979d0195447bd840800000000000000
+      internalID: 5249917632765597584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAYER_CAPYBARA/Ear.L
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 225
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d444909156b6b80800000000000000
+      internalID: -8400509521725469335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAYER_CAPYBARA/Ear.R
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 225
+        width: 85
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5890d6a187deae7e0800000000000000
+      internalID: -1735313606302692987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAYER_CAPYBARA/Head
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 398
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac25ae07e3d923b0800000000000000
+      internalID: -5536661277538702164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAYER_CAPYBARA/Leg.L
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 225
+        width: 145
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7e9e5057c39c280800000000000000
+      internalID: -9022613905152022529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAYER_CAPYBARA/Leg.R
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 231
+        width: 144
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34c1dc2992409dc0800000000000000
+      internalID: -3634331673638616002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Capybara_RagDoll_Design_0: -5870958610887072062
+      Capybara_RagDoll_Design_1: 3174761340750173113
+      Capybara_RagDoll_Design_2: -2285611793387735748
+      Capybara_RagDoll_Design_3: -1039017214598769665
+      Capybara_RagDoll_Design_4: 7851188161055872903
+      Capybara_RagDoll_Design_5: -1339421203210988032
+      Capybara_RagDoll_Design_6: 3707670968343745534
+      Capybara_RagDoll_Design_7: -4368463846646811029
+      PLAYER_CAPYBARA/Arm.L: -2938552271875769554
+      PLAYER_CAPYBARA/Arm.R: -4356579752203297749
+      PLAYER_CAPYBARA/Body: 5249917632765597584
+      PLAYER_CAPYBARA/Ear.L: -8400509521725469335
+      PLAYER_CAPYBARA/Ear.R: -1735313606302692987
+      PLAYER_CAPYBARA/Head: -5536661277538702164
+      PLAYER_CAPYBARA/Leg.L: -9022613905152022529
+      PLAYER_CAPYBARA/Leg.R: -3634331673638616002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

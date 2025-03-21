@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: ba44626def391174784a8987a3910570
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6692953096601548350
+    second: spineboy-pro_0
+  - first:
+      213: -4874232383680035027
+    second: spineboy-pro_1
+  - first:
+      213: -4311745121726161713
+    second: spineboy-pro_2
+  - first:
+      213: 5938610944603666361
+    second: spineboy-pro_3
+  - first:
+      213: 4588920171246228495
+    second: spineboy-pro_4
+  - first:
+      213: -6032402466639240185
+    second: spineboy-pro_5
+  - first:
+      213: -8369815507568794436
+    second: spineboy-pro_6
+  - first:
+      213: -6900733118413397950
+    second: spineboy-pro_7
+  - first:
+      213: -6589913200659553444
+    second: spineboy-pro_8
+  - first:
+      213: -1503400812101967429
+    second: spineboy-pro_9
+  - first:
+      213: 1534117046407007546
+    second: spineboy-pro_10
+  - first:
+      213: -8008638546346293040
+    second: spineboy-pro_11
+  - first:
+      213: 7603176555361333551
+    second: spineboy-pro_12
+  - first:
+      213: -1378593059537116613
+    second: spineboy-pro_13
+  - first:
+      213: -9128232549433163919
+    second: spineboy-pro_14
+  - first:
+      213: -8407604901342985547
+    second: spineboy-pro_15
+  - first:
+      213: 7033293026885611945
+    second: spineboy-pro_16
+  - first:
+      213: 3313945869451797137
+    second: spineboy-pro_17
+  - first:
+      213: -245570764392511824
+    second: spineboy-pro_18
+  - first:
+      213: 7194731837463190998
+    second: spineboy-pro_19
+  - first:
+      213: -1874506477984745839
+    second: spineboy-pro_20
+  - first:
+      213: -8256225928587071124
+    second: spineboy-pro_21
+  - first:
+      213: 1201646376827579683
+    second: spineboy-pro_22
+  - first:
+      213: -573934760016457636
+    second: spineboy-pro_23
+  - first:
+      213: 9167604714676902874
+    second: spineboy-pro_24
+  - first:
+      213: -8269208474091884719
+    second: spineboy-pro_25
+  - first:
+      213: -1555609952349931152
+    second: spineboy-pro_26
+  - first:
+      213: 2942652896887067497
+    second: spineboy-pro_27
+  - first:
+      213: -5238219017545873703
+    second: spineboy-pro_28
+  - first:
+      213: -6335161002142410206
+    second: spineboy-pro_29
+  - first:
+      213: -5716576570534422926
+    second: spineboy-pro_30
+  - first:
+      213: 6690682981083718052
+    second: spineboy-pro_31
+  - first:
+      213: 1970562328473537723
+    second: spineboy-pro_32
+  - first:
+      213: -3592915089540919290
+    second: spineboy-pro_33
+  - first:
+      213: 793848868339383464
+    second: spineboy-pro_34
+  - first:
+      213: 2409025566763201179
+    second: spineboy-pro_35
+  - first:
+      213: -8060856935110945879
+    second: spineboy-pro_36
+  - first:
+      213: 3152929621177633371
+    second: spineboy-pro_37
+  - first:
+      213: 4364909751342674551
+    second: spineboy-pro_38
+  - first:
+      213: 3650267255238788269
+    second: spineboy-pro_39
+  - first:
+      213: 9088912815040235200
+    second: spineboy-pro_40
+  - first:
+      213: -7390376394287127678
+    second: spineboy-pro_41
+  - first:
+      213: 2991713678293473599
+    second: spineboy-pro_42
+  - first:
+      213: -7129276363419200008
+    second: spineboy-pro_43
+  - first:
+      213: 1649311889043346071
+    second: spineboy-pro_44
+  - first:
+      213: 8601950513432993153
+    second: spineboy-pro_45
+  - first:
+      213: 5147939147315859245
+    second: spineboy-pro_46
+  - first:
+      213: 5412912749668517218
+    second: spineboy-pro_47
+  - first:
+      213: 4301123896005948537
+    second: spineboy-pro_48
+  - first:
+      213: 1785940433991555899
+    second: spineboy-pro_49
+  - first:
+      213: 2911433747619295782
+    second: spineboy-pro_50
+  - first:
+      213: -994877899828621176
+    second: spineboy-pro_51
+  - first:
+      213: 8505594795869769150
+    second: spineboy-pro_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spineboy-pro_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 301
+        width: 47
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36394d616522ec50800000000000000
+      internalID: 6692953096601548350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 302
+        width: 60
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27cb0ac87f3b5cb0800000000000000
+      internalID: -4874232383680035027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 306
+        width: 162
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc1d7908aa9924c0800000000000000
+      internalID: -4311745121726161713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 277
+        width: 93
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b73954a03f2a6250800000000000000
+      internalID: 5938610944603666361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 357
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0491c5259e1faf30800000000000000
+      internalID: 4588920171246228495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_5
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 390
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70427c9eae9984ca0800000000000000
+      internalID: -6032402466639240185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_6
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 269
+        width: 81
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb46ecb142178db80800000000000000
+      internalID: -8369815507568794436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_7
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 269
+        width: 71
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240223b5acbab30a0800000000000000
+      internalID: -6900733118413397950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_8
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 369
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53a70edbdceb84a0800000000000000
+      internalID: -6589913200659553444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_9
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 369
+        width: 89
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1e0af3de8d22be0800000000000000
+      internalID: -1503400812101967429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_10
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 264
+        width: 90
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d06fa53574a4510800000000000000
+      internalID: 1534117046407007546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_11
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 363
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d847867ca99bd090800000000000000
+      internalID: -8008638546346293040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_12
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 259
+        width: 494
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21f3e23bc8e38960800000000000000
+      internalID: 7603176555361333551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_13
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 213
+        width: 83
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32a87c9ae04edce0800000000000000
+      internalID: -1378593059537116613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_14
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 217
+        width: 76
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fb0e71cd0025180800000000000000
+      internalID: -9128232549433163919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_15
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 309
+        width: 91
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b24e9b33ef225b80800000000000000
+      internalID: -8407604901342985547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_16
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 308
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1bfb47eb64b9160800000000000000
+      internalID: 7033293026885611945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_17
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 348
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1922c81d5308dfd20800000000000000
+      internalID: 3313945869451797137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_18
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 349
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6c92dd0be879cf0800000000000000
+      internalID: -245570764392511824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_19
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 270
+        width: 59
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dddf22ac72d8d360800000000000000
+      internalID: 7194731837463190998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_20
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 270
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196fc823a4a6cf5e0800000000000000
+      internalID: -1874506477984745839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_21
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 269
+        width: 62
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61b235e24efb6d80800000000000000
+      internalID: -8256225928587071124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_22
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 269
+        width: 182
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d617c530b1da010800000000000000
+      internalID: 1201646376827579683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_23
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 264
+        width: 48
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5058f86069f808f0800000000000000
+      internalID: -573934760016457636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_24
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 305
+        width: 82
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb538b7aefd93f70800000000000000
+      internalID: 9167604714676902874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_25
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 319
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f6a1874bedd3d80800000000000000
+      internalID: -8269208474091884719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_26
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 308
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079be158dfc596ae0800000000000000
+      internalID: -1555609952349931152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_27
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 328
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9635a38083766d820800000000000000
+      internalID: 2942652896887067497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_28
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 322
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d68b7b8e8b1e47b0800000000000000
+      internalID: -5238219017545873703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_29
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 315
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ad46832acf418a0800000000000000
+      internalID: -6335161002142410206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_30
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 269
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27699f595e3aaa0b0800000000000000
+      internalID: -5716576570534422926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_31
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 313
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a12f38f8b41adc50800000000000000
+      internalID: 6690682981083718052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_32
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 305
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc8e6c4ff7d85b10800000000000000
+      internalID: 1970562328473537723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_33
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 271
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600d5cb13c6632ec0800000000000000
+      internalID: -3592915089540919290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_34
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 213
+        width: 57
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acf6baf651540b00800000000000000
+      internalID: 793848868339383464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_35
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 213
+        width: 61
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9231c94df39e6120800000000000000
+      internalID: 2409025566763201179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_36
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 233
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3d7756355122090800000000000000
+      internalID: -8060856935110945879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 273
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a891819c471cb20800000000000000
+      internalID: 3152929621177633371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_38
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1
+        width: 77
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7723b65ea46439c30800000000000000
+      internalID: 4364909751342674551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2
+        width: 266
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da48fbb8aba58a230800000000000000
+      internalID: 3650267255238788269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_40
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2
+        width: 266
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c608f6dc0e422e70800000000000000
+      internalID: 9088912815040235200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_41
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1
+        width: 168
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283651643db107990800000000000000
+      internalID: -7390376394287127678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_42
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2
+        width: 252
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f391c585db3b48920800000000000000
+      internalID: 2991713678293473599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_43
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 59
+        width: 185
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f55fc48be8bf0d90800000000000000
+      internalID: -7129276363419200008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_44
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 2
+        width: 237
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792d146bc6883e610800000000000000
+      internalID: 1649311889043346071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_45
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1
+        width: 205
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d99a8ba64406770800000000000000
+      internalID: 8601950513432993153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_46
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 147
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fc6192167217740800000000000000
+      internalID: 5147939147315859245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_47
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 52
+        width: 91
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265cc2c87778e1b40800000000000000
+      internalID: 5412912749668517218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_48
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 147
+        width: 95
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974f0642569a0bb30800000000000000
+      internalID: 4301123896005948537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_49
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 52
+        width: 61
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bd216cc5fe8c810800000000000000
+      internalID: 1785940433991555899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_50
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 143
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622bee9619d776820800000000000000
+      internalID: 2911433747619295782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_51
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 1
+        width: 211
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88014d932db7132f0800000000000000
+      internalID: -994877899828621176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spineboy-pro_52
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 52
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd8a3bf661f90670800000000000000
+      internalID: 8505594795869769150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spineboy-pro_0: 6692953096601548350
+      spineboy-pro_1: -4874232383680035027
+      spineboy-pro_10: 1534117046407007546
+      spineboy-pro_11: -8008638546346293040
+      spineboy-pro_12: 7603176555361333551
+      spineboy-pro_13: -1378593059537116613
+      spineboy-pro_14: -9128232549433163919
+      spineboy-pro_15: -8407604901342985547
+      spineboy-pro_16: 7033293026885611945
+      spineboy-pro_17: 3313945869451797137
+      spineboy-pro_18: -245570764392511824
+      spineboy-pro_19: 7194731837463190998
+      spineboy-pro_2: -4311745121726161713
+      spineboy-pro_20: -1874506477984745839
+      spineboy-pro_21: -8256225928587071124
+      spineboy-pro_22: 1201646376827579683
+      spineboy-pro_23: -573934760016457636
+      spineboy-pro_24: 9167604714676902874
+      spineboy-pro_25: -8269208474091884719
+      spineboy-pro_26: -1555609952349931152
+      spineboy-pro_27: 2942652896887067497
+      spineboy-pro_28: -5238219017545873703
+      spineboy-pro_29: -6335161002142410206
+      spineboy-pro_3: 5938610944603666361
+      spineboy-pro_30: -5716576570534422926
+      spineboy-pro_31: 6690682981083718052
+      spineboy-pro_32: 1970562328473537723
+      spineboy-pro_33: -3592915089540919290
+      spineboy-pro_34: 793848868339383464
+      spineboy-pro_35: 2409025566763201179
+      spineboy-pro_36: -8060856935110945879
+      spineboy-pro_37: 3152929621177633371
+      spineboy-pro_38: 4364909751342674551
+      spineboy-pro_39: 3650267255238788269
+      spineboy-pro_4: 4588920171246228495
+      spineboy-pro_40: 9088912815040235200
+      spineboy-pro_41: -7390376394287127678
+      spineboy-pro_42: 2991713678293473599
+      spineboy-pro_43: -7129276363419200008
+      spineboy-pro_44: 1649311889043346071
+      spineboy-pro_45: 8601950513432993153
+      spineboy-pro_46: 5147939147315859245
+      spineboy-pro_47: 5412912749668517218
+      spineboy-pro_48: 4301123896005948537
+      spineboy-pro_49: 1785940433991555899
+      spineboy-pro_5: -6032402466639240185
+      spineboy-pro_50: 2911433747619295782
+      spineboy-pro_51: -994877899828621176
+      spineboy-pro_52: 8505594795869769150
+      spineboy-pro_6: -8369815507568794436
+      spineboy-pro_7: -6900733118413397950
+      spineboy-pro_8: -6589913200659553444
+      spineboy-pro_9: -1503400812101967429
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
