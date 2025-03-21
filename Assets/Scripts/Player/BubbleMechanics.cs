@@ -8,8 +8,6 @@ public class BubbleMechanic : MonoBehaviour
     public float growthSpeed = 1f;
     public float decaySpeed = 0.5f;
     public Transform bubbleVisual;
-    
-
 
     [Header("Movement")]
     public float moveSpeed = 5f; // Velocidade horizontal
@@ -19,16 +17,15 @@ public class BubbleMechanic : MonoBehaviour
     public float propulsionForce = 10f;
     [Range(1f, 10f)]
     public float gravoffset;
+    public bool isInflating = false;
+    public float currentBubbleSize;
 
-    private float currentBubbleSize;
-    private bool isInflating;
     private Rigidbody2D rb;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         currentBubbleSize = transform.localScale.x;
-
     }
 
     void Update()
@@ -53,9 +50,11 @@ public class BubbleMechanic : MonoBehaviour
         clampedPosition.x = Mathf.Clamp(clampedPosition.x, -horizontalLimit, horizontalLimit);
         transform.position = clampedPosition;
     }
-private void SetGravitySpeed(){
-    GameManager.Instance().SetSpeed(-(currentBubbleSize - gravoffset));
-}
+
+    private void SetGravitySpeed(){
+        GameManager.Instance().SetSpeed(-(currentBubbleSize - gravoffset));
+    }
+
     private void HandleBubbleInput()
     {
         if (Input.GetKey(KeyCode.Space))
@@ -82,10 +81,8 @@ private void SetGravitySpeed(){
     {
         if (currentBubbleSize >= maxBubbleSize || currentBubbleSize <= minBubbleSize)
         {
-              Destroy(gameObject);
             GameManager.Instance().OnPlayersDeath();
-            
-           // Exemplo simples
+            Destroy(gameObject);
         }
     }
 

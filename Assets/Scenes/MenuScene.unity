@@ -1212,7 +1212,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 491059797}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9a6610d2e704f1648819acc8d7460285, type: 3}
   m_Name: 
@@ -1227,7 +1227,7 @@ MonoBehaviour:
     Path: event:/SoundTrack
   Event: 
   EventPlayTrigger: 1
-  EventStopTrigger: 2
+  EventStopTrigger: 0
   AllowFadeout: 1
   TriggerOnce: 0
   Preload: 0
@@ -1251,7 +1251,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LoadEvent: 1
-  UnloadEvent: 2
+  UnloadEvent: 0
   Banks:
   - Sfx
   - Soundtracks
@@ -1679,7 +1679,7 @@ GameObject:
   - component: {fileID: 760446725}
   - component: {fileID: 760446729}
   m_Layer: 5
-  m_Name: PLayButton
+  m_Name: PlayButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3394,7 +3394,7 @@ GameObject:
   - component: {fileID: 1495413885}
   - component: {fileID: 1495413887}
   m_Layer: 5
-  m_Name: Image
+  m_Name: Logo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

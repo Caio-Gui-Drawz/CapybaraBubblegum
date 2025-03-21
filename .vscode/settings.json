@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "globalgamejam25.sln"
+    "dotnet.defaultSolution": "CapybaraBubblegum.sln"
 }

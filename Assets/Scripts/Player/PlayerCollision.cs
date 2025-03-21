@@ -9,9 +9,8 @@ public class PlayerCollision : MonoBehaviour
     {
         if (other.CompareTag(obstacleTag))
         {
-         Destroy(gameObject);
-          GameManager.Instance().OnPlayersDeath();
-           
+            GameManager.Instance().OnPlayersDeath();
+            Destroy(gameObject);
         }
     }
 }
