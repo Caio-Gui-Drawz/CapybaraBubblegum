@@ -25,7 +25,6 @@ public class BubbleMechanic : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        currentBubbleSize = transform.localScale.x;
     }
 
     void Update()
