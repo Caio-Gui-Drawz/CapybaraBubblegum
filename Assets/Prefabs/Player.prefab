@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2286695472974208849}
   - component: {fileID: 8720567574909092457}
+  - component: {fileID: 8872936708571643520}
   m_Layer: 0
   m_Name: Bubble
   m_TagString: Player
@@ -87,6 +88,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &8872936708571643520
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 519533314408660550}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b2e08005b45e946b33aafc907e61c0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bubble: {fileID: 3106211329668196174}
+  tremorMagnitude: 0.1
+  tremorSpeed: 0.1
+  tremorThreshold: 0.4
 --- !u!1 &6603469095342046895
 GameObject:
   m_ObjectHideFlags: 0
@@ -375,8 +392,9 @@ MonoBehaviour:
   maxBubbleSize: 0.7
   minBubbleSize: 0.01
   growthSpeed: 0.1
-  decaySpeed: 0.04
+  decaySpeed: 0.08
   bubbleVisual: {fileID: 2286695472974208849}
+  circleCollider: {fileID: 395346070300368450}
   moveSpeed: 7
   horizontalLimit: 8
   propulsionForce: 50
@@ -444,8 +462,8 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.02976892, y: -0.091155805}
-  m_Radius: 0.33
+  m_Offset: {x: -0.1, y: -0.15}
+  m_Radius: 0.4
 --- !u!212 &927208229408736938
 SpriteRenderer:
   m_ObjectHideFlags: 0

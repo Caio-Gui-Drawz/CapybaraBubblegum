@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      busAlertSprite_0: -6099449309192040545
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

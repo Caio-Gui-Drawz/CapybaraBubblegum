@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using System.Collections;
 using TMPro;
+using Unity.VisualScripting;
 
 public class GameManager : MonoBehaviour
 {
@@ -11,6 +12,7 @@ public class GameManager : MonoBehaviour
     public float vertical_speed{get;private set;}
     public Spawn spawnManager;
     public bool inGame = false;
+    public ParticleSystem deathParticleSystem;
     
     private float nextThreshold = 50f;
     private const float increaseAmount = 0.05f;
@@ -69,7 +71,14 @@ public class GameManager : MonoBehaviour
     {
         BubbleScore.instance.StopScore();
         vertical_speed = 0;
+        speedmult = 0;
         SoundTrack.Instance().StopSoundTrack();
+
+        if(deathParticleSystem != null)
+            deathParticleSystem.Play();
+
+        ScreenShake.Instance.TriggerShake();
+
         StartCoroutine(DelayDeath());
     }
 

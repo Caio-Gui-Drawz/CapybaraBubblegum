@@ -8,6 +8,7 @@ public class BubbleMechanic : MonoBehaviour
     public float growthSpeed = 1f;
     public float decaySpeed = 0.5f;
     public Transform bubbleVisual;
+    public CircleCollider2D circleCollider;
 
     [Header("Movement")]
     public float moveSpeed = 5f; // Velocidade horizontal
@@ -34,6 +35,7 @@ public class BubbleMechanic : MonoBehaviour
         UpdateBubbleVisual();
         CheckForExplosion();
         SetGravitySpeed();
+        SetColliderRadius();
     }
 
     // Novo método para movimento horizontal
@@ -51,7 +53,13 @@ public class BubbleMechanic : MonoBehaviour
     }
 
     private void SetGravitySpeed(){
-        GameManager.Instance().SetSpeed(-(currentBubbleSize - gravoffset));
+        GameManager.Instance().SetSpeed(-((currentBubbleSize * 20f) - gravoffset));
+    }
+
+    private void SetColliderRadius()
+    {
+        float radius = Mathf.Clamp((currentBubbleSize * 4f), 0.4f, 3f);
+        circleCollider.radius = radius;
     }
 
     private void HandleBubbleInput()
