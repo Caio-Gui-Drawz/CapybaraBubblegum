@@ -7,7 +7,7 @@ public class BubbleScore : MonoBehaviour
     public TMP_Text scoreText;
     [Header("Score Settings")]
     public float scoreSpeed = 1f;
-    public float maxSpeedMultiplier = 2f;
+    public float maxSpeedMultiplier = 4f;
     public float bubbleSizeFactor = 1f;
     public float minBubbleSizeForIncrease = 3f;
     public BubbleMechanic bubbleMechanic;

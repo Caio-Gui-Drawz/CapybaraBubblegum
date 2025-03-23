@@ -9,6 +9,13 @@ public class GameManager : MonoBehaviour
     public TMP_Text scoreText;
     public float speedmult;
     public float vertical_speed{get;private set;}
+    public Spawn spawnManager;
+    public bool inGame = false;
+    
+    private float nextThreshold = 50f;
+    private const float increaseAmount = 0.05f;
+    private const float maxChanceTwo = 0.6f;
+    private const float maxChanceThree = 0.4f;
 
     public void SetSpeed(float newspeed){
         vertical_speed = newspeed * speedmult;
@@ -28,9 +35,27 @@ public class GameManager : MonoBehaviour
             Destroy(gameObject);
     }
 
+    void Update()
+    {
+        if(!inGame)
+            return;
+
+        if (BubbleScore.instance.currentScore >= nextThreshold)
+        {
+            if (spawnManager != null)
+            {
+                spawnManager.chanceTwoObjects = Mathf.Min(spawnManager.chanceTwoObjects + increaseAmount, maxChanceTwo);
+                spawnManager.chanceThreeObjects = Mathf.Min(spawnManager.chanceThreeObjects + increaseAmount, maxChanceThree);
+                spawnManager.secondSpawn = Mathf.Max(spawnManager.secondSpawn - 0.1f, 0.8f);
+            }
+
+            nextThreshold += 50f;
+        }
+    }
+
     public void GameOver()
     {
-        Time.timeScale = 0; // Pausa o jogo
+        Time.timeScale = 0;
         gameOverPanel.SetActive(true);
     }
 

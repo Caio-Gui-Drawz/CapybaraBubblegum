@@ -1817,6 +1817,8 @@ MonoBehaviour:
   newRecord: {fileID: 752139957}
   scoreText: {fileID: 37232338}
   speedmult: 4.8
+  spawnManager: {fileID: 704317915}
+  inGame: 1
   gameOverPanel: {fileID: 0}
 --- !u!4 &515911744
 Transform:
@@ -2370,7 +2372,7 @@ Transform:
   m_GameObject: {fileID: 704317913}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -30.31, z: 0}
+  m_LocalPosition: {x: 0, y: -29, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2393,13 +2395,14 @@ MonoBehaviour:
   - {fileID: 4863756133475911542, guid: 6bd39e6b1837b1148ac7d059fd028365, type: 3}
   - {fileID: 2192987824820594835, guid: 025b96b98e9088f4b97a1b7fcff663fb, type: 3}
   - {fileID: 2192987824820594835, guid: 08cab3ab15fe06248959342cd4504207, type: 3}
-  - {fileID: 2192987824820594835, guid: bb107e8a79f3d524dbe18255f41b4fbb, type: 3}
   - {fileID: 2192987824820594835, guid: a6693ec7193db45498f5f07e6b2c5ecc, type: 3}
   - {fileID: 2192987824820594835, guid: 4ea39a52e77499a49a65e3905534a8ec, type: 3}
   - {fileID: 2192987824820594835, guid: 4808e9cea0325e948b384bddf5e2b9d5, type: 3}
   secondSpawn: 2
-  minThreshold: 0
-  maxThreshold: 0
+  minThreshold: -8
+  maxThreshold: 8
+  chanceTwoObjects: 0.2
+  chanceThreeObjects: 0
 --- !u!1 &708480183
 GameObject:
   m_ObjectHideFlags: 0
