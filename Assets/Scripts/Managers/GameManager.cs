@@ -6,7 +6,7 @@ using Unity.VisualScripting;
 
 public class GameManager : MonoBehaviour
 {
-    public GameObject allEndScreen, newRecord;
+    public GameObject allEndScreen, newRecord, popAudio;
     public TMP_Text scoreText;
     public float speedmult;
     public float vertical_speed{get;private set;}
@@ -67,15 +67,18 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
-    public void OnPlayersDeath()
+    public void OnPlayersDeath(Transform posPly)
     {
+        popAudio.SetActive(true);
         BubbleScore.instance.StopScore();
         vertical_speed = 0;
         speedmult = 0;
         SoundTrack.Instance().StopSoundTrack();
 
-        if(deathParticleSystem != null)
+        if(deathParticleSystem != null) {
+            deathParticleSystem.transform.position = posPly.position;
             deathParticleSystem.Play();
+        }
 
         ScreenShake.Instance.TriggerShake();
 

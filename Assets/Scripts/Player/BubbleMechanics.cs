@@ -88,7 +88,7 @@ public class BubbleMechanic : MonoBehaviour
     {
         if (currentBubbleSize >= maxBubbleSize || currentBubbleSize <= minBubbleSize)
         {
-            GameManager.Instance().OnPlayersDeath();
+            GameManager.Instance().OnPlayersDeath(this.transform);
             Destroy(gameObject);
         }
     }

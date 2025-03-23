@@ -1279,7 +1279,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 491059797}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4f96193b343783d41b31b3d5b512e9d4, type: 3}
   m_Name: 
@@ -1927,8 +1927,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   allEndScreen: {fileID: 0}
   newRecord: {fileID: 0}
+  popAudio: {fileID: 0}
   scoreText: {fileID: 0}
   speedmult: 4.8
+  spawnManager: {fileID: 0}
+  inGame: 0
+  deathParticleSystem: {fileID: 0}
   gameOverPanel: {fileID: 0}
 --- !u!4 &829321274
 Transform:

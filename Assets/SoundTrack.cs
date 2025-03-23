@@ -47,7 +47,7 @@ public class SoundTrack : MonoBehaviour
         if (instanceFMOD.isValid())
         {
             instanceFMOD.setParameterByName("PLAYERISDEAD", 1);
-            instanceFMOD.start();
+
         }
         else
         {
