@@ -26,8 +26,8 @@ Transform:
   m_GameObject: {fileID: 519533314408660550}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.03, y: -0.095, z: -0.0000000023821}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -0.08, y: -0.17, z: -0}
+  m_LocalScale: {x: 0.10000001, y: 0.10000001, z: 0.10000001}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 2510471055652148470}
@@ -52,7 +52,7 @@ SpriteRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
-  m_RenderingLayerMask: 1
+  m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
@@ -75,13 +75,13 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 1752989309600967176, guid: e5b250e9be8936d4eac114539094442a, type: 3}
+  m_SortingOrder: 28
+  m_Sprite: {fileID: -2513494675379014207, guid: 3a33bc0da2236fb4ead77ec796aff6c9, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.16, y: 0.16}
+  m_Size: {x: 10.68, y: 10.68}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -372,15 +372,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c92723605ad748409ca9a6f3c79fde7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxBubbleSize: 10
-  minBubbleSize: 0.1
-  growthSpeed: 2
-  decaySpeed: 0.75
+  maxBubbleSize: 0.7
+  minBubbleSize: 0.01
+  growthSpeed: 0.1
+  decaySpeed: 0.04
   bubbleVisual: {fileID: 2286695472974208849}
   moveSpeed: 7
   horizontalLimit: 8
   propulsionForce: 50
   gravoffset: 3
+  isInflating: 0
+  currentBubbleSize: 0.1
 --- !u!114 &7502242242113984565
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -493,7 +495,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 2.429219, y: 2.520778}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 0
