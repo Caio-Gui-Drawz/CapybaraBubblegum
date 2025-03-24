@@ -1,61 +1,68 @@
 
 Capybara_RagDoll_Design.png
-size: 1233,308
+size: 1233,311
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 PLAYER_CAPYBARA/Arm.L
   rotate: false
-  xy: 402, 79
+  xy: 402, 82
   size: 267, 227
   orig: 267, 227
   offset: 0, 0
   index: -1
 PLAYER_CAPYBARA/Arm.R
   rotate: true
-  xy: 1020, 20
+  xy: 1020, 23
   size: 286, 211
   orig: 286, 211
   offset: 0, 0
   index: -1
 PLAYER_CAPYBARA/Body
   rotate: true
-  xy: 671, 85
+  xy: 671, 88
   size: 221, 347
   orig: 221, 347
   offset: 0, 0
   index: -1
 PLAYER_CAPYBARA/Ear.L
   rotate: false
-  xy: 671, 2
+  xy: 671, 5
   size: 84, 81
   orig: 84, 81
   offset: 0, 0
   index: -1
 PLAYER_CAPYBARA/Ear.R
   rotate: false
-  xy: 757, 5
+  xy: 402, 2
   size: 85, 78
   orig: 85, 78
   offset: 0, 0
   index: -1
+PLAYER_CAPYBARA/Eye
+  rotate: true
+  xy: 757, 7
+  size: 79, 102
+  orig: 79, 102
+  offset: 0, 0
+  index: -1
 PLAYER_CAPYBARA/Head
   rotate: true
-  xy: 2, 30
+  xy: 2, 33
   size: 276, 398
   orig: 276, 398
   offset: 0, 0
   index: -1
 PLAYER_CAPYBARA/Leg.L
   rotate: true
-  xy: 844, 18
+  xy: 861, 21
   size: 65, 145
   orig: 65, 145
   offset: 0, 0
   index: -1
 PLAYER_CAPYBARA/Leg.R
   rotate: true
-  xy: 402, 11
+  xy: 489, 14
   size: 66, 144
   orig: 66, 144
   offset: 0, 0
