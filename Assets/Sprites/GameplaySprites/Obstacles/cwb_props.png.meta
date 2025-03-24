@@ -121,23 +121,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PropVina1
+      name: cwb_props_0
       rect:
         serializedVersion: 2
-        x: 216
-        y: 1673
-        width: 768
-        height: 745
+        x: 283
+        y: 1280
+        width: 685
+        height: 1021
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3938f457901796410800000000000000
-      internalID: 1470831038749967251
+      spriteID: 2cf1b658953a0594caa1e7c27df1f31e
+      internalID: 1057374040
       vertices: []
       indices: 
       edges: []
@@ -146,20 +146,20 @@ TextureImporter:
       name: cwb_props_1
       rect:
         serializedVersion: 2
-        x: 1187
-        y: 2233
-        width: 229
-        height: 143
+        x: 1126
+        y: 1791
+        width: 623
+        height: 644
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 23f5be54862f6c600800000000000000
-      internalID: 488344139279851314
+      spriteID: ea1c85c026742784284c21ae58c6f645
+      internalID: 916498923
       vertices: []
       indices: 
       edges: []
@@ -168,130 +168,64 @@ TextureImporter:
       name: cwb_props_2
       rect:
         serializedVersion: 2
-        x: 1451
-        y: 2122
-        width: 239
-        height: 135
+        x: 2208
+        y: 1181
+        width: 1209
+        height: 945
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: da7ea852093ea9010800000000000000
-      internalID: 1196518859264944045
+      spriteID: 86ee06e95ee95714b90984e0b8f51f86
+      internalID: 1762139425
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PropVina3
+      name: cwb_props_3
       rect:
         serializedVersion: 2
-        x: 1186
-        y: 1967
-        width: 255
-        height: 226
+        x: 179
+        y: 186
+        width: 973
+        height: 608
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4b9a8d8e1ca245e50800000000000000
-      internalID: 6797104749932489140
+      spriteID: db518e09ed1138147a9ed3471f7cd7bb
+      internalID: -1037062915
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prop_Vina4
+      name: cwb_props_4
       rect:
         serializedVersion: 2
-        x: 1448
-        y: 1850
-        width: 242
-        height: 224
+        x: 1434
+        y: 104
+        width: 2009
+        height: 878
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2d09aa4bb26510c50800000000000000
-      internalID: 6629674872180740306
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PropMon
-      rect:
-        serializedVersion: 2
-        x: 2009
-        y: 1312
-        width: 1090
-        height: 826
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 887c3746ab970ea60800000000000000
-      internalID: 7701289204259735432
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PropVina2
-      rect:
-        serializedVersion: 2
-        x: 697
-        y: 1214
-        width: 854
-        height: 489
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b3e41b0a6600cfb80800000000000000
-      internalID: -8359806367523844549
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PropOnibus
-      rect:
-        serializedVersion: 2
-        x: 550
-        y: 163
-        width: 1779
-        height: 1023
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 988c5d3bc58fa9e50800000000000000
-      internalID: 6817034063016478857
+      spriteID: 7395a3836bbf0f7419af4695fd8ac29a
+      internalID: 884314615
       vertices: []
       indices: 
       edges: []
@@ -306,16 +240,17 @@ TextureImporter:
     indices: 
     edges: []
     weights: []
-    secondaryTextures: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 874f187796ff0494abb2a0e3db37d760, type: 3}
+      name: outline
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      PropMon: 7701289204259735432
-      PropOnibus: 6817034063016478857
-      PropVina1: 1470831038749967251
-      PropVina2: -8359806367523844549
-      PropVina3: 6797104749932489140
-      Prop_Vina4: 6629674872180740306
+      cwb_props_0: 1057374040
+      cwb_props_1: 916498923
+      cwb_props_2: 1762139425
+      cwb_props_3: -1037062915
+      cwb_props_4: 884314615
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
