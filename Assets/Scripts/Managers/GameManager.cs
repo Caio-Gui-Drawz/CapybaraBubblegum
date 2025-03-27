@@ -13,6 +13,11 @@ public class GameManager : MonoBehaviour
     public Spawn spawnManager;
     public bool inGame = false;
     public ParticleSystem deathParticleSystem;
+
+    public GameObject objetoRecemAtivado;
+    public Transform referencia;
+    public float forcaMin = 5f;
+    public float forcaMax = 10f;
     
     private float nextThreshold = 50f;
     private const float increaseAmount = 0.05f;
@@ -87,6 +92,7 @@ public class GameManager : MonoBehaviour
 
     private IEnumerator DelayDeath()
     {
+        AtivarDeathRagdoll();
         yield return new WaitForSeconds(2);
         allEndScreen.SetActive(true);
         scoreText.text = $"{BubbleScore.instance.currentScore:F1}m";
@@ -96,6 +102,20 @@ public class GameManager : MonoBehaviour
         if(savedScore < BubbleScore.instance.currentScore) {
             PlayerPrefs.SetFloat("Score", BubbleScore.instance.currentScore);
             newRecord.SetActive(true);
+        }
+    }
+
+    void AtivarDeathRagdoll()
+    {
+        objetoRecemAtivado.SetActive(true);
+        objetoRecemAtivado.transform.position = referencia.position;
+
+        Rigidbody2D filhoRb = objetoRecemAtivado.transform.GetChild(0).GetComponent<Rigidbody2D>();
+        if (filhoRb != null)
+        {
+            float forcaVertical = Random.Range(forcaMin, forcaMax);
+            float forcaLateral = Random.Range(-(forcaMax/2), (forcaMax/2));
+            filhoRb.AddForce(new Vector2(forcaLateral, forcaVertical), ForceMode2D.Impulse);
         }
     }
 }
