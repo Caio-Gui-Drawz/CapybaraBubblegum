@@ -12597,7 +12597,7 @@ GameObject:
   - component: {fileID: 6525195537912358740}
   - component: {fileID: 4595041077396630834}
   - component: {fileID: 4046786589461413627}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Capybara_RagDoll
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12614,7 +12614,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2510471056586477470}
   - component: {fileID: 927208229548416450}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 'DeathPlayer '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
