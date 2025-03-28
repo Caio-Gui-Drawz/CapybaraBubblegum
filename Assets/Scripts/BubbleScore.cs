@@ -17,6 +17,12 @@ public class BubbleScore : MonoBehaviour
     public BubbleMechanic bubbleMechanic;
     public float currentScore;
 
+    [Header("Height Limiars"), Space(6)]
+    [SerializeField] private BackgroundController backgroundController;
+    [Space(4)]
+    [Min(0)] public float startTransitionScore;
+    [Min(0)] public float endTransitionScore;
+
     private bool stopAll = false;
     private string filePath;
     private List<float> highScores = new List<float>();
@@ -45,6 +51,11 @@ public class BubbleScore : MonoBehaviour
             float scoreIncrease = bubbleMechanic.currentBubbleSize * bubbleSizeFactor * scoreSpeed;
             scoreIncrease = Mathf.Min(scoreIncrease, maxSpeedMultiplier);
             currentScore += scoreIncrease * Time.deltaTime;
+
+            if (currentScore >= startTransitionScore && currentScore <= endTransitionScore)
+            {
+                backgroundController.UpdateBackground();
+            }
         }
         else
         {
