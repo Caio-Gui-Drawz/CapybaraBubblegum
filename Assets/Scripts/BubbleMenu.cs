@@ -10,7 +10,6 @@ public class BubbleMenu : MonoBehaviour
     public float growthSpeed = 1f;
     public float decaySpeed = 0.5f;
     public Transform bubbleVisual;
-    public CircleCollider2D circleCollider;
     public GameObject popAudio;
     public GameObject playerFake;
 

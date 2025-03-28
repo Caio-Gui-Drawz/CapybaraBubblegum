@@ -6,7 +6,7 @@ using Unity.VisualScripting;
 
 public class GameManager : MonoBehaviour
 {
-    public GameObject allEndScreen, newRecord, popAudio;
+    public GameObject allEndScreen, newRecord, noRecord, popAudio;
     public TMP_Text scoreText;
     public float speedmult;
     public float vertical_speed{get;private set;}
@@ -75,7 +75,6 @@ public class GameManager : MonoBehaviour
     public void OnPlayersDeath(Transform posPly)
     {
         popAudio.SetActive(true);
-        BubbleScore.instance.StopScore();
         vertical_speed = 0;
         speedmult = 0;
         SoundTrack.Instance().StopSoundTrack();
@@ -100,8 +99,13 @@ public class GameManager : MonoBehaviour
         float savedScore = PlayerPrefs.GetFloat("Score", 0f);
 
         if(savedScore < BubbleScore.instance.currentScore) {
+            BubbleScore.instance.StopScore(true);
             PlayerPrefs.SetFloat("Score", BubbleScore.instance.currentScore);
             newRecord.SetActive(true);
+        }
+        else {
+            BubbleScore.instance.StopScore(false);
+            noRecord.SetActive(true);
         }
     }
 

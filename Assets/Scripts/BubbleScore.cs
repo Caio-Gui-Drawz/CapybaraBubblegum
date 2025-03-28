@@ -9,6 +9,8 @@ public class BubbleScore : MonoBehaviour
     public static BubbleScore instance;
     public TMP_Text scoreText;
     public List<TMP_Text> topScoreTexts;
+    public List<TMP_Text> topScoreTexts2;
+
     [Header("Score Settings")]
     public float scoreSpeed = 1f;
     public float maxSpeedMultiplier = 4f;
@@ -69,13 +71,13 @@ public class BubbleScore : MonoBehaviour
         scoreText.text = $"{currentScore:F1}m";
     }
 
-    public void StopScore()
+    public void StopScore(bool newR)
     {
         stopAll = true;
-        SaveScore(currentScore);
+        SaveScore(currentScore, newR);
     }
 
-    void SaveScore(float score)
+    void SaveScore(float score, bool newR)
     {
         if (score <= 0)
             return;
@@ -83,7 +85,11 @@ public class BubbleScore : MonoBehaviour
         highScores.Add(score);
         highScores = highScores.OrderByDescending(s => s).Take(maxRecords).ToList();
         File.WriteAllText(filePath, JsonUtility.ToJson(new ScoreData { scores = highScores }));
-        UpdateTopScoresDisplay();
+
+        if(newR)
+            UpdateTopScoresDisplay();
+        else
+            UpdateTopScoresDisplay2();
     }
 
     void LoadScores()
@@ -97,6 +103,7 @@ public class BubbleScore : MonoBehaviour
                 highScores = data.scores.OrderByDescending(s => s).Take(maxRecords).ToList();
             }
         }
+
         UpdateTopScoresDisplay();
     }
 
@@ -105,9 +112,20 @@ public class BubbleScore : MonoBehaviour
         for (int i = 0; i < topScoreTexts.Count; i++)
         {
             if (i < highScores.Count)
-                topScoreTexts[i].text = (i + 1).ToString() + "º - " + $"{highScores[i]:F1}m";
+                topScoreTexts[i].text = $"{highScores[i]:F1}m";
             else
                 topScoreTexts[i].text = "-";
+        }
+    }
+
+    void UpdateTopScoresDisplay2()
+    {
+        for (int i = 0; i < topScoreTexts2.Count; i++)
+        {
+            if (i < highScores.Count)
+                topScoreTexts2[i].text = $"{highScores[i]:F1}m";
+            else
+                topScoreTexts2[i].text = "-";
         }
     }
 
