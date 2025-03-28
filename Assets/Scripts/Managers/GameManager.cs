@@ -19,7 +19,7 @@ public class GameManager : MonoBehaviour
     public float forcaMin = 5f;
     public float forcaMax = 10f;
     
-    private float nextThreshold = 50f;
+    private float nextThreshold = 50f; //Valor em Metros q aumenta a dificuldade (De 50 em 50 metros fica mais dificil)
     private const float increaseAmount = 0.05f;
     private const float maxChanceTwo = 0.6f;
     private const float maxChanceThree = 0.4f;
