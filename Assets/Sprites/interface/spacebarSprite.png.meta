@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: e55b9f81de3548942b02a9fa5e0d383f
+guid: 4b0d51b8dd0a5d94f8f0292ceb147f35
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3597857132160173335
-    second: nuvensBG_0
-  - first:
-      213: 7904857528518505722
-    second: nuvensBG_1
-  - first:
-      213: 3426989716107286156
-    second: nuvensBG_2
+      213: -3171450193355862098
+    second: spacebarSprite_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -106,35 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: nuvensBG_0
-      rect:
-        serializedVersion: 2
-        x: 1125
-        y: 529
-        width: 149
-        height: 155
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9eabcf42008d11ec0800000000000000
-      internalID: -3597857132160173335
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: nuvensBG_1
+      name: spacebarSprite_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 414
-        height: 304
+        width: 744
+        height: 303
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,30 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: af4fa6b5a02b3bd60800000000000000
-      internalID: 7904857528518505722
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: nuvensBG_2
-      rect:
-        serializedVersion: 2
-        x: 1410
-        y: 94
-        width: 391
-        height: 266
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c86dd756dfc1f8f20800000000000000
-      internalID: 3426989716107286156
+      spriteID: eaf0e2a2adebcf3d0800000000000000
+      internalID: -3171450193355862098
       vertices: []
       indices: 
       edges: []
@@ -184,10 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      nuvensBG_0: -3597857132160173335
-      nuvensBG_1: 7904857528518505722
-      nuvensBG_2: 3426989716107286156
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
