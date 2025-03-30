@@ -53,16 +53,16 @@ public class BubbleScore : MonoBehaviour
             float scoreIncrease = bubbleMechanic.currentBubbleSize * bubbleSizeFactor * scoreSpeed;
             scoreIncrease = Mathf.Min(scoreIncrease, maxSpeedMultiplier);
             currentScore += scoreIncrease * Time.deltaTime;
-
-            if (currentScore >= startTransitionScore && currentScore <= endTransitionScore)
-            {
-                backgroundController.UpdateBackground();
-            }
         }
         else
         {
             currentScore -= scoreSpeed * Time.deltaTime;
             currentScore = Mathf.Max(0f, currentScore);
+        }
+
+        if (currentScore >= startTransitionScore && currentScore <= endTransitionScore)
+        {
+            backgroundController.UpdateBackground();
         }
     }
 

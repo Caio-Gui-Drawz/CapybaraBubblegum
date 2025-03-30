@@ -14,8 +14,6 @@ public class BackgroundController : MonoBehaviour
     {
         float t = (bubbleScore.currentScore - bubbleScore.startTransitionScore) / (bubbleScore.endTransitionScore - bubbleScore.startTransitionScore);
 
-        Debug.Log(t);
-
         instanceController.materialInstance.SetFloat("_TransitionController", Mathf.Lerp(1, -1, t));
     }
     #endregion
